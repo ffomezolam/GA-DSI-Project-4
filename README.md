@@ -6,6 +6,9 @@ Authors:
 - Saurabh Shrestha
 - Andrew Malozemoff
 
+*This is a group project done for the General Assembly Data Science Immersive
+cohort starting on July 25, 2022*
+
 ## Problem Statement
 Based on US Accident data from 2016-2021, what recommendations and observations can be made towards reducing severity of automobile accidents?
 
@@ -238,4 +241,3 @@ Our models along with our EDA appear to show that the current measures in place 
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. “Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.” In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 - https://www.cdc.gov/injury/features/global-road-safety/index.html
 - https://www.bankrate.com/insurance/car/car-crash-statistics/
-
